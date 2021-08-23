@@ -1,6 +1,6 @@
 <a href="#"><img width="390px" height="293px" src="https://acegif.com/wp-content/uploads/2021/07/acegif-com-sweating-2.gif">
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">A passionate student, Currently under-graduate. I am curious seek into the field of front end development.</h3>
+<h3 align="center">A passionate student, Currently under-graduate. I am curious to seek into the field of front end development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam171&label=Profile%20views&color=0e75b6&style=flat" alt="shivam171" /> </p>
 
