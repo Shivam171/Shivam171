@@ -35,7 +35,8 @@
     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp;
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/1200px-Adobe_Animate_CC_icon.svg.png" alt="react" width="40" height="40"/> </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/1200px-Adobe_Animate_CC_icon.svg.png" alt="react" width="40" height="40"/> </a> &nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/8563847/27636538-4c87901a-5bc9-11e7-9952-b6596f6dc027.png" alt="vscode" width="40" height="40">
 </p>
 
 <br/>
