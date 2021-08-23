@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="40%" height="auto" src="https://cdn.dribbble.com/users/664063/screenshots/5908304/designer_and_client_6__dribbble_.gif" height="175px"/></a>
+<a href="#"><img width="45%" height="auto" src="https://cdn.dribbble.com/users/664063/screenshots/5908304/designer_and_client_6__dribbble_.gif" height="175px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivam</h1>
