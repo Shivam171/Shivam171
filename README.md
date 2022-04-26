@@ -5,7 +5,7 @@
 <!--
 - 🔭 I’m currently working on **[--------](-------)**   -->
 
-- 🌱 I’m currently learning **ReactJs and Animation with Js**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!--
