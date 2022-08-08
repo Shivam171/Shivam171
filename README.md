@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **[@shivamprakash](http://linkedin.com/in/shivam-prakash-643996176)**
 
-- ⚡ Fun fact **I like to draw, animate and play games very often.**
+- ⚡ Fun fact **I like to draw, animate, read fictional novel and play games.**
 
 
 ## 🚀 Languages and Tools:
