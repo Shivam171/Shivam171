@@ -99,7 +99,7 @@ Nice to meet you folks, I'm Shivam
 <!-- Twitter -->
 <a href = "https://twitter.com/shivam171op"><img src="https://img.icons8.com/fluency/40/000000/twitter.png"/>
 <!-- Hacker Rank -->
-<a href = "https://www.hackerrank.com/shiv_op"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
+<a href = "https://www.hackerrank.com/shiv_op"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="42"/></a>
 </p>
 
 <p align="center">
