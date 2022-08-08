@@ -51,6 +51,25 @@ Nice to meet you folks, I'm Shivam
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> </a> &nbsp; &nbsp;
     <br />
     <br />
+    <!-- Android -->
+    <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+    </a> &nbsp; &nbsp;
+    <!-- Xamarin -->
+    <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank"><img src="https://img.icons8.com/color/48/000000/xamarin.png"/> &nbsp; &nbsp;
+    <!-- Ionic -->
+    <a href="https://ionicframework.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ionic.png"/> &nbsp; &nbsp;
+    <!-- Apache Cordova -->
+    <a href="https://cordova.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="Apache Cordova" width="40" height="48"/>
+    <br />
+    <br />
+    <!-- Adobe Photoshop -->
+    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+    </a> &nbsp; &nbsp;
+    <!-- Adobe Animate -->
+    <a href="https://www.adobe.com/in/products/animate.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-animate.png"/>
+    </a>
+    <br />
+    <br />
     <!-- Bash -->
     <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="48"/> </a> &nbsp; &nbsp; -->
     <!-- Git -->
@@ -79,6 +98,8 @@ Nice to meet you folks, I'm Shivam
 <a href = "https://www.instagram.com/itsshiv.op/"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png"/></a>
 <!-- Twitter -->
 <a href = "https://twitter.com/shivam171op"><img src="https://img.icons8.com/fluency/40/000000/twitter.png"/>
+<!-- Hacker Rank -->
+<a href = "https://www.hackerrank.com/shiv_op"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
 </p>
 
 <p align="center">
