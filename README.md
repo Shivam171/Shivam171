@@ -4,7 +4,7 @@ Nice to meet you folks, I'm Shivam
 
 ## Who Am I? 🙂
 
-- 👨‍🎓 Currently Under-Graduate
+- 🎓 Computer Application Undergrad | 2022
 - 👩‍💻 Working on Web & App Development
 - 📝 Writing Words, Compiling Code
 - 🤝🏻 Looking to collaborate on OpenSource Projects
