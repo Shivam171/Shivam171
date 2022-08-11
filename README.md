@@ -123,6 +123,8 @@
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 ## Connect with me <img alt="paw wave random" title="paw wave random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515293/13136/paw_wave.gif?1643515293" height="30">
 
 <p align="left">
