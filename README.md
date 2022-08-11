@@ -129,6 +129,11 @@
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643509570/42506/activity_monitor.png?1643509570" height="30"></a> Recent Github Activity
