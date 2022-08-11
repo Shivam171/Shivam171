@@ -18,7 +18,14 @@
   - I like to Draw and Animate 🎨
   - I like playing Games 🎮
 
-## Languages and Tools <img alt="stockrocket random" title="stockrocket random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto">
+## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
+
+[![Twitter Badge](https://img.shields.io/badge/-@shivam171op-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivam171op)](https://twitter.com/shivam171op) 
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://linkedin.com/in/shivam-prakash-643996176) 
+[![Mail Badge](https://img.shields.io/badge/-@itsshiv.op-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/itsshiv.op/) 
+[![Mail Badge](https://img.shields.io/badge/-shiv.op-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shiv.op@gmail.com)
+
+## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto"></a> Languages and Tools
 
 <p align="center">
     <!-- C++ -->
@@ -115,29 +122,16 @@
     -->
 </p>
 
-## Github Status <img alt="trophy random" title="trophy random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30">
+## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam171&hide_border=true&text_color=#00000)](https://github.com/shivam171/github-readme-stats) &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shivam171&count_private=true&show_icons=true&hide_border=true" >
 
-## Recent Github Activity <img alt="activity monitor random" title="activity monitor random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643509570/42506/activity_monitor.png?1643509570" height="30">
+## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643509570/42506/activity_monitor.png?1643509570" height="30"></a> Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-2. 💪 Opened PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-3. 🎉 Merged PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-4. 💪 Opened PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-5. 🎉 Merged PR [#12](https://github.com/Shivam171/exemplo/pull/12) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
+
+
+
+
+
 <!--END_SECTION:activity-->
-
-## Connect with me <img alt="paw wave random" title="paw wave random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515293/13136/paw_wave.gif?1643515293" height="30">
-
-<p align="left">
-<!-- Twitter -->
-<a href = "https://twitter.com/shivam171op"><img src="https://img.icons8.com/fluency/40/000000/twitter.png"/>
-<!-- Linkedin -->
-<a href = "http://linkedin.com/in/shivam-prakash-643996176"><img src="https://img.icons8.com/fluency/40/000000/linkedin-circled.png"/></a>
-<!-- Instagram -->
-<a href = "https://www.instagram.com/itsshiv.op/"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png"/></a>
-<!-- Hacker Rank -->
-<a href = "https://www.hackerrank.com/shiv_op"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="42"/></a>
-</p>
