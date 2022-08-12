@@ -106,6 +106,10 @@
 
 <!--START_SECTION:waka-->
 
+```text
+Markdown   5 hrs 56 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Stats
