@@ -16,6 +16,7 @@
     </a>
     <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" height="20" width="20"/>
     </em>
+    <img align="right" src="https://cdn.dribbble.com/users/2729615/screenshots/11626536/media/6657f25c64ec5c93488ae892ebda5daf.gif" height="300" style="margin:15px 0 15px 0">
 </p>
 
 - 👨‍🎓 Computer Application Under-Graduate | 2022
@@ -24,9 +25,9 @@
 - 🤝🏻 Looking to collaborate on OpenSource Projects
 - 🎯 Goal : To be a better Developer
 - ⚡ Fun Facts :
-  - I like Curry and Rice 🍛
-  - I like to Draw and Animate 🎨
-  - I like playing Games and doing home workout 🎮💪
+  - I like curry and rice 🍛
+  - I like to draw and Animate 🎨
+  - I like playing games and doing home workout 🎮💪
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
 
@@ -38,75 +39,72 @@
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto"></a> Languages and Tools
 
-### 👨‍💻 Programming and markup languages
+### &emsp;&emsp;&nbsp;👨‍💻 Programming and markup languages
 
 <p>
-    &emsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/console.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;
-    <img src="https://img.icons8.com/ultraviolet/40/000000/markdown.png" height="50" width="40"/>
+    &emsp;&emsp;&emsp;&emsp;
+    <img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/30/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/30/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/30/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/30/000000/typescript.png"/>
+    <img src="https://img.icons8.com/color/30/000000/console.png"/>
+    <img src="https://img.icons8.com/color/30/000000/git.png"/>&nbsp;
+    <img src="https://img.icons8.com/ultraviolet/30/000000/markdown.png"/>
 </p>
 
-### 🧰 Frameworks and libraries
+### &emsp;&emsp;&nbsp;🧰 Frameworks and libraries
 
 <p>
-    &emsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="Apache Cordova" width="40" height="48"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/xamarin.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    &emsp;&emsp;&emsp;&emsp;
+    <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="Apache Cordova" height="30"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/xamarin.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/react-native.png"/>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### &emsp;&emsp;&nbsp;🗄️ Databases and cloud hosting
 
 <p>
-    &emsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/3d-fluency/48/000000/3d-fluency-github-logo.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+    &emsp;&emsp;&emsp;&emsp;
+    <img src="https://img.icons8.com/3d-fluency/30/000000/3d-fluency-github-logo.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/mysql-logo.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/oracle-logo.png"/>
 </p>
 
-### ⚙️ Software and tools
+### &emsp;&emsp;&nbsp;⚙️ Software and tools
 
 <p>
-    &emsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/adobe-acrobat--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/48/000000/obs-studio.png"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/48/000000/filmora.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/49/000000/audacity.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/adobe-animate.png"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png"/>
+    &emsp;&emsp;&emsp;&emsp;
+    <img src="https://img.icons8.com/color/30/000000/adobe-acrobat--v1.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/30/000000/visual-studio.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/pycharm.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/android-studio--v3.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/brave-web-browser.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/chrome--v1.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/30/000000/obs-studio.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/30/000000/filmora.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/audacity.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/adobe-photoshop--v1.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/adobe-animate.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/30/000000/microsoft-word-2019.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/30/000000/microsoft-excel-2019.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/30/000000/microsoft-powerpoint-2019.png"/>
 </p>
 
-### 💻 OS
+### &emsp;&emsp;&nbsp;💻 OS
 
 <p>
-    <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+    &emsp;&emsp;&emsp;&emsp;
+    <img src="https://img.icons8.com/fluency/30/000000/windows-10.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/android-os.png"/>
 </p>
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
-```text
-Markdown   5 hrs 56 mins   █████████████████████████   100.00 %
-```
 
 <!--END_SECTION:waka-->
 
@@ -114,11 +112,10 @@ Markdown   5 hrs 56 mins   █████████████████�
 
 <details>
     <summary>💻 GitHub Profile Stats</summary>
-    <br />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivam171&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam171&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
     <br />
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <p><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 
 <details>
@@ -126,11 +123,11 @@ Markdown   5 hrs 56 mins   █████████████████�
     <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-2. 💪 Opened PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-3. 🎉 Merged PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-4. 💪 Opened PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-5. 🎉 Merged PR [#12](https://github.com/Shivam171/exemplo/pull/12) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
+
+
+
+
+
 <!--END_SECTION:activity-->
 </details>
 
