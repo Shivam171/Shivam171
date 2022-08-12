@@ -1,4 +1,14 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Shivam <img title="meow attention blob cats" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" height="30" width="30">
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Welcome to Shivam's Profile
+  <img title="meow attention blob cats" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" height="30" width="30">
+</h3>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=30&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=420&height=40&lines=I'm+a+Front-end+Developer+;I'm+a+UI%2FUX+Designer;Web+Dev+Enthusiast" alt="Typing SVG" /></a>
+</div>
+
+---
 
 <p>
     <em>Master's Student at 
@@ -16,10 +26,11 @@
 - ⚡ Fun Facts :
   - I like Curry and Rice 🍛
   - I like to Draw and Animate 🎨
-  - I like playing Games 🎮
+  - I like playing Games and doing home workout 🎮💪
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
 
+&emsp; &emsp;
 [![Twitter Badge](https://img.shields.io/badge/-@shivam171op-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivam171op)](https://twitter.com/shivam171op)
 [![Linkedin Badge](https://img.shields.io/badge/-Shivam.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://linkedin.com/in/shivam-prakash-643996176)
 [![Mail Badge](https://img.shields.io/badge/-@itsshiv.op-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/itsshiv.op/)
@@ -27,121 +38,95 @@
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto"></a> Languages and Tools
 
-<p align="center">
-    <!-- C++ -->
-    <a href="https://cplusplus.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="48"/> 
-    </a>
-    &nbsp; &nbsp;
-    <!-- Java -->
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
-    </a>
-    &nbsp; &nbsp;
-    <!-- HTML -->
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- CSS -->
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- JS -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- NodeJS -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- Firebase -->
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="48"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- MySQL -->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- Android -->
-    <a href="https://developer.android.com/studio" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
-    </a> 
-    &nbsp; &nbsp;
-    <!-- Xamarin -->
-    <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/xamarin.png"/> 
-    </a>
-    &nbsp; &nbsp;
-    <!-- Ionic -->
-    <a href="https://ionicframework.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/ionic.png"/>
-    </a>
-    &nbsp; &nbsp;
-    <!-- Apache Cordova -->
-    <a href="https://cordova.apache.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="Apache Cordova" width="40" height="48"/>
-    </a> 
-    &nbsp; &nbsp;
-    <!-- Adobe Photoshop -->
-    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-    </a> 
-    &nbsp; &nbsp;
-    <!-- Adobe Animate -->
-    <a href="https://www.adobe.com/in/products/animate.html" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/adobe-animate.png"/>
-    </a> 
-    &nbsp; &nbsp;
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="48"/> 
-    </a> 
-    &nbsp; &nbsp;
-    <!-- Linux -->
-    <!-- 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="48"/> 
-    </a> 
-    &nbsp; &nbsp; 
-    -->
+### 👨‍💻 Programming and markup languages
+
+<p>
+    &emsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/console.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;
+    <img src="https://img.icons8.com/ultraviolet/40/000000/markdown.png" height="50" width="40"/>
 </p>
 
-## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Status
+### 🧰 Frameworks and libraries
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam171&hide_border=true&text_color=#00000)](https://github.com/shivam171/github-readme-stats) &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shivam171&count_private=true&show_icons=true&hide_border=true" >
+<p>
+    &emsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="Apache Cordova" width="40" height="48"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/xamarin.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    &emsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/3d-fluency/48/000000/3d-fluency-github-logo.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+</p>
+
+### ⚙️ Software and tools
+
+<p>
+    &emsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/adobe-acrobat--v1.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/000000/obs-studio.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/000000/filmora.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/49/000000/audacity.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/adobe-animate.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png"/>
+</p>
+
+### 💻 OS
+
+<p>
+    <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+</p>
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
-## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643509570/42506/activity_monitor.png?1643509570" height="30"></a> Recent Github Activity
+## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Stats
+
+<details>
+    <summary>💻 GitHub Profile Stats</summary>
+    <br />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivam171&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam171&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+    <br />
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<details>
+    <summary>⚡ Recent Github Activity</summary>
+    <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-2. 💪 Opened PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-3. 🎉 Merged PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-4. 💪 Opened PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-5. 🎉 Merged PR [#12](https://github.com/Shivam171/exemplo/pull/12) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
+
+    
+    
+    
+    
 <!--END_SECTION:activity-->
+</details>
+
+<img alt="Shivam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivam171&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
