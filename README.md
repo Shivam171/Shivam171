@@ -127,11 +127,11 @@
     <br />
 
 <!--START_SECTION:activity-->
-
-
-
-
-
+1. 🎉 Merged PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
+2. 💪 Opened PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
+3. 🎉 Merged PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
+4. 💪 Opened PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
+5. 🎉 Merged PR [#12](https://github.com/Shivam171/exemplo/pull/12) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
 <!--END_SECTION:activity-->
 </details>
 
