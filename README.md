@@ -11,14 +11,14 @@
 ---
 
 <p>
+    <img align="right" src="https://www.kossin.dev/static/media/main.fd3bd1b1.gif" height="600" width="auto" style="object-fit:cover;" >
+</p>
+
+<p>
     <em>Master's Student at 
     <a href="https://www.lpu.in/">Lovely Professional University</a>
     <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" height="20" width="20"/>
     </em>
-</p>
-
-<p>
-    <img align="right" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" height="208" style="margin:15px 0 15px 0">
 </p>
 
 - 👨‍🎓 Computer Application Under-Graduate | 2022
@@ -109,13 +109,6 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Markdown     12 hrs 52 mins  ███████████████████▒░░░░░   76.97 %
-JavaScript   3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-CSS          49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
 <!--END_SECTION:waka-->
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Stats
@@ -134,11 +127,11 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
     <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-2. 💪 Opened PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-3. 🎉 Merged PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-4. 💪 Opened PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-5. 🎉 Merged PR [#12](https://github.com/Shivam171/exemplo/pull/12) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
+
+
+
+
+
 <!--END_SECTION:activity-->
 </details>
 
