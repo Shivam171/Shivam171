@@ -113,6 +113,13 @@
 
 <!--START_SECTION:waka-->
 
+```text
+Markdown     12 hrs 52 mins  ███████████████████▒░░░░░   76.97 %
+JavaScript   3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+CSS          49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Stats
