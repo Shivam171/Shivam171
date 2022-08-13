@@ -51,8 +51,6 @@
     <img src="https://img.icons8.com/color/30/000000/css3.png"/>
     <img src="https://img.icons8.com/color/30/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/30/000000/typescript.png"/>
-    <br />
-    &emsp;&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/30/000000/console.png"/>
     <img src="https://img.icons8.com/color/30/000000/git.png"/>
 </p>
@@ -85,17 +83,15 @@
     <img src="https://img.icons8.com/fluency/30/000000/visual-studio.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/pycharm.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/android-studio--v3.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/30/000000/brave-web-browser.png"/>
+    <img src="https://img.icons8.com/color/30/000000/brave-web-browser.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/chrome--v1.png"/>&nbsp;
+    <img src="https://img.icons8.com/fluency/30/000000/obs-studio.png"/>
     <br />
     &emsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/30/000000/chrome--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/30/000000/obs-studio.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/filmora.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/audacity.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/adobe-photoshop--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/30/000000/adobe-animate.png"/>
-    <br />
-    &emsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/adobe-animate.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/microsoft-word-2019.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/microsoft-excel-2019.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/microsoft-powerpoint-2019.png"/>
@@ -112,13 +108,6 @@
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
-```text
-Markdown     12 hrs 52 mins  ███████████████████▒░░░░░   76.97 %
-JavaScript   3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-CSS          49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
 
 <!--END_SECTION:waka-->
 
@@ -138,11 +127,11 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
     <br />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-2. 💪 Opened PR [#13](https://github.com/Shivam171/exemplo/pull/13) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
-3. 🎉 Merged PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-4. 💪 Opened PR [#5](https://github.com/Shivam171/valo-exchange/pull/5) in [Shivam171/valo-exchange](https://github.com/Shivam171/valo-exchange)
-5. 🎉 Merged PR [#12](https://github.com/Shivam171/exemplo/pull/12) in [Shivam171/exemplo](https://github.com/Shivam171/exemplo)
+
+
+
+
+
 <!--END_SECTION:activity-->
 </details>
 
