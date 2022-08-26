@@ -110,9 +110,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 5 mins    ██████████████████████░░░   87.55 %
-CSS          17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
