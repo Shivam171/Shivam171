@@ -102,6 +102,7 @@
 <p>
     &emsp;&nbsp;&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/windows-10.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/android-os.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/android-os.png"/>
 </p>
 
