@@ -131,15 +131,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 <details>
     <summary>⚡ Recent Github Activity</summary>
     <br />
-
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. 🔱 Forked [Shivam171/recent-activity](https://github.com/Shivam171/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-    <!--RECENT_ACTIVITY:end-->
-
 </details>
 
 <img alt="Shivam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shivam171&bg_color=1f222e&color=f8d866&line=f85d7f&point=ffffff&area=true&hide_border=true" />
