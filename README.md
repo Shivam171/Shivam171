@@ -27,16 +27,14 @@
 - 🤝🏻 Looking to collaborate on OpenSource Projects
 - 🎯 Goal : To be a better Developer
 - ⚡ Fun Facts :
-  - I like curry and rice
-  - I like to draw and animate
-  - I like playing games and doing home workout
+  - There are more 700 coding languages out there!
+  - The first-ever computer game is called Spacewar
+  - Computer Programming played a huge role in ending the World War II
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
 
 &emsp; &emsp;
-[![Twitter Badge](https://img.shields.io/badge/-@shivam171op-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivam171op)](https://twitter.com/shivam171op)
 [![Linkedin Badge](https://img.shields.io/badge/-Shivam.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://linkedin.com/in/shivam-prakash-643996176)
-[![Mail Badge](https://img.shields.io/badge/-@itsshiv.op-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/itsshiv.op/)
 [![Mail Badge](https://img.shields.io/badge/-shiv.op-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shiv.op@gmail.com)
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto"></a> Languages and Tools
@@ -69,7 +67,7 @@
 
 <p>
     &emsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/3d-fluency/30/000000/3d-fluency-github-logo.png"/>&nbsp;
+    <img src="https://img.icons8.com/3d-fluency/30/github.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/mysql-logo.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/oracle-logo.png"/>
 </p>
@@ -143,4 +141,4 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 </details>
 
-<img alt="Shivam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivam171&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Shivam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shivam171&bg_color=1f222e&color=f8d866&line=f85d7f&point=ffffff&area=true&hide_border=true" />
