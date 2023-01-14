@@ -132,8 +132,8 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
 
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
+    <!--RECENT_ACTIVITY:start-->
+    <!--RECENT_ACTIVITY:last_update-->
   
 </details>
 
