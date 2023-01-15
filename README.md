@@ -48,7 +48,9 @@
     <img src="https://img.icons8.com/color/30/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/30/000000/css3.png"/>
     <img src="https://img.icons8.com/color/30/000000/javascript.png"/>
+    <!--
     <img src="https://img.icons8.com/color/30/000000/typescript.png"/>
+    -->
     <img src="https://img.icons8.com/color/30/000000/console.png"/>
     <img src="https://img.icons8.com/color/30/000000/git.png"/>
 </p>
@@ -57,10 +59,10 @@
 
 <p>
     &emsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/react-native.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="Apache Cordova" height="30"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/xamarin.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/30/000000/react-native.png"/>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -76,20 +78,21 @@
 
 <p>
     &emsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/30/000000/adobe-acrobat--v1.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/visual-studio.png"/>&nbsp;
+    <img src="https://netbeans.apache.org/images/nblogo32x32.png" height="28" width="auto"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/pycharm.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/android-studio--v3.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/brave-web-browser.png"/>&nbsp;
-    <img src="https://img.icons8.com/color/30/000000/chrome--v1.png"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/30/000000/obs-studio.png"/>
+    <img src="https://img.icons8.com/color/30/000000/chrome--v1.png"/>
     <br />
     &emsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/fluency/30/000000/obs-studio.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/filmora.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/audacity.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/adobe-photoshop--v1.png"/>&nbsp;
     <img src="https://img.icons8.com/color/30/000000/adobe-animate.png"/>&nbsp;
+    <img src="https://img.icons8.com/color/30/000000/adobe-acrobat--v1.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/microsoft-word-2019.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/microsoft-excel-2019.png"/>&nbsp;
     <img src="https://img.icons8.com/fluency/30/000000/microsoft-powerpoint-2019.png"/>
