@@ -34,7 +34,7 @@
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
 
 &emsp; &emsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Shivam.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://linkedin.com/in/shivam-prakash-643996176)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-643996176/)
 [![Mail Badge](https://img.shields.io/badge/-shiv.op-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shiv.op@gmail.com)
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto"></a> Languages and Tools
