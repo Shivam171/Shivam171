@@ -111,14 +111,6 @@
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Daily Development Breakdown
 
 <!--START_SECTION:waka-->
-
-```text
-C++     5 hrs 47 mins   ████████████████████░░░░░   80.12 %
-Java    1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-JSON    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
 <!--END_SECTION:waka-->
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Stats
