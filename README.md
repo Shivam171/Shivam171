@@ -111,6 +111,20 @@
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Daily Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```text
+From: 10 August 2022 - To: 26 January 2023
+
+Total Time: 64 hrs 5 mins
+
+C++          28 hrs 3 mins   >>>>>>>>>>>--------------   43.77 %
+JavaScript   13 hrs 57 mins  >>>>>--------------------   21.78 %
+Markdown     11 hrs 31 mins  >>>>---------------------   17.97 %
+Java         4 hrs 35 mins   >>-----------------------   07.18 %
+JSON         2 hrs 39 mins   >------------------------   04.16 %
+HTML         2 hrs 8 mins    >------------------------   03.34 %
+```
+
 <!--END_SECTION:waka-->
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Stats
