@@ -108,7 +108,7 @@
     <img src="https://img.icons8.com/color/30/000000/android-os.png"/>
 </p>
 
-## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Daily Development Breakdown
+## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
