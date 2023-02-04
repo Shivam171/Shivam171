@@ -11,7 +11,7 @@
 ---
 
 <p>
-    <img align="right" src="https://www.kossin.dev/static/media/main.fd3bd1b1.gif" height="500" width="auto" style="object-fit:cover;" >
+    <img align="right" src="https://kossin.dev/static/media/main.fd3bd1b152f5862c1af2.gif" height="500" width="auto" style="object-fit:cover;" >
 </p>
 
 <p>
