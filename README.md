@@ -142,11 +142,11 @@ JSON       3 mins          ░░░░░░░░░░░░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Tax-Calculator](https://github.com/Shivam171/Tax-Calculator)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Toll-Plaza](https://github.com/Shivam171/Toll-Plaza)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Tax-Calculator](https://github.com/Shivam171/Tax-Calculator)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Tax-Calculator](https://github.com/Shivam171/Tax-Calculator)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Tax-Calculator](https://github.com/Shivam171/Tax-Calculator)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Canteen-Sale](https://github.com/Shivam171/Canteen-Sale)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Canteen-Sale](https://github.com/Shivam171/Canteen-Sale)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Canteen-Sales](https://github.com/Shivam171/Canteen-Sales)<br>
+4. 📔 Created new repository [Shivam171/Canteen-Sales](https://github.com/Shivam171/Canteen-Sales)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Tax-Saver](https://github.com/Shivam171/Tax-Saver)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
