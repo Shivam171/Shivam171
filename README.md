@@ -142,11 +142,11 @@ Other      5 mins          ░░░░░░░░░░░░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⭐ Starred [Raahul252000/Java-Projects](https://github.com/Raahul252000/Java-Projects)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Canteen-Sale](https://github.com/Shivam171/Canteen-Sale)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Canteen-Sale](https://github.com/Shivam171/Canteen-Sale)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Canteen-Sales](https://github.com/Shivam171/Canteen-Sales)<br>
+1. ⭐ Starred [kumarianjali31/project_login](https://github.com/kumarianjali31/project_login)<br>
+2. ⭐ Starred [105600/Tax-Calculator](https://github.com/105600/Tax-Calculator)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⭐ Starred [Raahul252000/Java-Projects](https://github.com/Raahul252000/Java-Projects)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Canteen-Sale](https://github.com/Shivam171/Canteen-Sale)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
