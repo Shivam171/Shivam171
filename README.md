@@ -140,11 +140,11 @@ Other      5 mins          ▒░░░░░░░░░░░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kumarianjali31/project_login](https://github.com/kumarianjali31/project_login)<br>
-2. ⭐ Starred [105600/Tax-Calculator](https://github.com/105600/Tax-Calculator)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⭐ Starred [Raahul252000/Java-Projects](https://github.com/Raahul252000/Java-Projects)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Canteen-Sale](https://github.com/Shivam171/Canteen-Sale)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/React-Weather-App](https://github.com/Shivam171/React-Weather-App)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Parallax-Spider-Man](https://github.com/Shivam171/Parallax-Spider-Man)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Parallax-Spider-Man](https://github.com/Shivam171/Parallax-Spider-Man)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
