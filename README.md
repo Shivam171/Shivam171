@@ -31,12 +31,18 @@
   - The first-ever computer game is called Spacewar
   - Computer Programming played a huge role in ending the World War II
 
+
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
 
 &emsp; &emsp;
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shiv.op@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linked_In-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-prakash-643996176/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivam171op)](https://twitter.com/shivam171op)
+
+<!-- ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" height="30" width="auto"></a> Vibing To
+<a href="https://open.spotify.com/user/6sk4o7n39e0c4ehzmo4yym8fz">
+  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" alt="Current Spotify Song">
+</a> -->
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto"></a> Languages and Tools
 
