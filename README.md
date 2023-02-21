@@ -147,10 +147,10 @@ Other   5 mins          ▒░░░░░░░░░░░░░░░░░�
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/React-Weather-App](https://github.com/Shivam171/React-Weather-App)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Parallax-Spider-Man](https://github.com/Shivam171/Parallax-Spider-Man)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Parallax-Spider-Man](https://github.com/Shivam171/Parallax-Spider-Man)<br>
+2. 🔱 Forked [Shivam171/itstommi](https://github.com/Shivam171/itstommi) from [itstommi/itstommi](https://github.com/itstommi/itstommi)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Diet-Adviser](https://github.com/Shivam171/Diet-Adviser)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Diet-Adviser](https://github.com/Shivam171/Diet-Adviser)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Diet-Advisor](https://github.com/Shivam171/Diet-Advisor)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
