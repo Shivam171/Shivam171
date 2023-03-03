@@ -119,15 +119,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2023 - To: 01 March 2023
+From: 23 February 2023 - To: 02 March 2023
 
-Total Time: 3 hrs 40 mins
+Total Time: 2 hrs 42 mins
 
-Java    1 hr 45 mins    ████████████░░░░░░░░░░░░░   47.69 %
-C++     59 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
-HTML    53 mins         ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-Text    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java   1 hr 45 mins    ████████████████▒░░░░░░░░   64.74 %
+HTML   57 mins         ████████▓░░░░░░░░░░░░░░░░   35.26 %
 ```
 
 <!--END_SECTION:waka-->
