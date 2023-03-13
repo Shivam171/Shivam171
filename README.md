@@ -119,11 +119,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2023 - To: 11 March 2023
+From: 05 March 2023 - To: 12 March 2023
 
-Total Time: 1 hr 17 mins
+Total Time: 1 hr 2 mins
 
-Java   1 hr 17 mins    █████████████████████████   100.00 %
+Java   1 hr 2 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
