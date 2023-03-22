@@ -119,11 +119,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2023 - To: 20 March 2023
+From: 14 March 2023 - To: 21 March 2023
 
-Total Time: 3 hrs 29 mins
+Total Time: 3 hrs 54 mins
 
-HTML   3 hrs 29 mins   █████████████████████████   100.00 %
+HTML   3 hrs 29 mins   ██████████████████████▒░░   89.25 %
+Java   25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
 ```
 
 <!--END_SECTION:waka-->
