@@ -119,12 +119,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 04 April 2023
+From: 29 March 2023 - To: 05 April 2023
 
-Total Time: 3 hrs 7 mins
+Total Time: 2 hrs 50 mins
 
-HTML   2 hrs 40 mins   █████████████████████▒░░░   85.51 %
-C++    27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+HTML    1 hr 42 mins    ███████████████░░░░░░░░░░   60.18 %
+Java    29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+C++     27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+XML     9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
