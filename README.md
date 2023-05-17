@@ -147,11 +147,11 @@ JSON         19 mins         ▓░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. 🔱 Forked [Shivam171/itstommi](https://github.com/Shivam171/itstommi) from [itstommi/itstommi](https://github.com/itstommi/itstommi)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Diet-Adviser](https://github.com/Shivam171/Diet-Adviser)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Diet-Adviser](https://github.com/Shivam171/Diet-Adviser)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Diet-Advisor](https://github.com/Shivam171/Diet-Advisor)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
