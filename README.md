@@ -147,8 +147,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
 4. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
 5. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix-Movie-App](https://github.com/Shivam171/Tvflix-Movie-App)<br>
