@@ -119,11 +119,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 30 May 2023
+From: 24 May 2023 - To: 31 May 2023
 
-Total Time: 6 hrs 13 mins
+Total Time: 4 hrs 3 mins
 
-Markdown   6 hrs 13 mins   █████████████████████████   100.00 %
+Markdown   4 hrs 3 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
