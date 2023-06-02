@@ -1,12 +1,12 @@
 <!-- 1584 x 396 -->
 <div align="center">
-    <img src=".github/banner3.png">
+    <img src=".github/workflows/banner3.png">
 </div>
 
 ---
 
 <div align="center">
-  <img align="right" src=".github/1.png" height="340px">
+  <img align="right" src=".github/workflows/4.png" height="540px">
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
