@@ -64,19 +64,19 @@ HTML       1 min           ░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 <p>
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git"/>
     </a>
 </p>
 
 <p>
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,mongo,firebase,github"/>
     </a>
 </p>
 
 <p style="padding-left:6px;">
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=netlify,vscode,ps,linux"/>
     </a>
 </p>
