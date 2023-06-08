@@ -5,10 +5,6 @@
 
 ---
 
-<div align="center">
-  <img align="right" src=".github/workflows/4.png" height="540px">
-</div>
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
 <em>Master's Student at
