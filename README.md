@@ -21,10 +21,7 @@
 - 📝 Writing Words, Compiling Code
 - 🤝🏻 Looking to collaborate on OpenSource Projects
 - 🎯 Goal : To be a better Developer
-- ⚡ Fun Facts :
-  - There are more 700 coding languages out there!
-  - The first-ever computer game is called Spacewar
-  - Computer Programming played a huge role in ending the World War II
+- ⚡ Fun Facts : There are two ways to write error-free programs; only the third one works
 
 <!--  -->
 
