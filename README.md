@@ -17,7 +17,7 @@
 </em>
 
 - 👨‍🎓 Computer Application Under-Graduate | 2022
-- 👩‍💻 Working on Web & App Development
+- 👩‍💻 Working on React
 - 📝 Writing Words, Compiling Code
 - 🤝🏻 Looking to collaborate on OpenSource Projects
 - 🎯 Goal : To be a better Developer
