@@ -114,11 +114,11 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Memefy](https://github.com/Shivam171/Memefy)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix](https://github.com/Shivam171/Tvflix)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix](https://github.com/Shivam171/Tvflix)<br>
+1. ⭐ Starred [rj-rishav/AniPlex](https://github.com/rj-rishav/AniPlex)<br>
+2. ⭐ Starred [rj-rishav/Diurnal-Cycle](https://github.com/rj-rishav/Diurnal-Cycle)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Memefy](https://github.com/Shivam171/Memefy)<br>
 4. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix](https://github.com/Shivam171/Tvflix)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Memefy](https://github.com/Shivam171/Memefy)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix](https://github.com/Shivam171/Tvflix)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
