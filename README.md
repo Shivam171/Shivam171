@@ -40,11 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 24 June 2023
+From: 18 June 2023 - To: 25 June 2023
 
-Total Time: 1 hr 10 mins
+Total Time: 1 hr 20 mins
 
-C++   1 hr 10 mins    █████████████████████████   100.00 %
+C++          1 hr 10 mins    ██████████████████████░░░   88.01 %
+HTML         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
