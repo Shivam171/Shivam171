@@ -1,6 +1,6 @@
 <!-- 1584 x 396 -->
 <div align="center">
-    <img src=".github/workflows/banner3.png">
+    <img src=".res/banner.png">
 </div>
 
 ---
