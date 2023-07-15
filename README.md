@@ -1,6 +1,7 @@
 <!-- 1584 x 396 -->
 <div align="center">
-    <img src=".res/banner.png">
+    <img src="res/banner.png">
+    
 </div>
 
 ---
