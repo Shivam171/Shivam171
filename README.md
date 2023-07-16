@@ -112,11 +112,11 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rj-rishav/Analog-Clock](https://github.com/rj-rishav/Analog-Clock)<br>
-2. ⭐ Starred [rj-rishav/AniPlex](https://github.com/rj-rishav/AniPlex)<br>
-3. ⭐ Starred [rj-rishav/Diurnal-Cycle](https://github.com/rj-rishav/Diurnal-Cycle)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Memefy](https://github.com/Shivam171/Memefy)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix](https://github.com/Shivam171/Tvflix)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
