@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
-Total Time: 3 hrs 53 mins
+Total Time: 3 hrs 47 mins
 
-C++     3 hrs 53 mins   █████████████████████████   99.88 %
+C++     3 hrs 47 mins   █████████████████████████   99.88 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
