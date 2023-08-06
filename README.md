@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2023 - To: 04 August 2023
+From: 29 July 2023 - To: 05 August 2023
 
-Total Time: 3 hrs 46 mins
+Total Time: 4 hrs 19 mins
 
-C++      2 hrs 23 mins   ███████████████▓░░░░░░░░░   63.17 %
-Python   47 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
-HTML     35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+C++      2 hrs 54 mins   █████████████████░░░░░░░░   67.53 %
+Python   48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+HTML     35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
 ```
 
 <!--END_SECTION:waka-->
