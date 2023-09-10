@@ -41,11 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
-Total Time: 1 hr 50 mins
+Total Time: 5 hrs 36 mins
 
-C++   1 hr 50 mins    █████████████████████████   100.00 %
+C++     5 hrs 35 mins   █████████████████████████   99.76 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
