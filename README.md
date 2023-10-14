@@ -31,9 +31,9 @@
 <div>
   <h2 align="left">
       <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
-    </h2>
-
-<!--START_SECTION:waka-->
+  </h2>
+  <div style="transform: scale(2);">
+    <!--START_SECTION:waka-->
 
 ```txt
 From: 06 October 2023 - To: 13 October 2023
@@ -48,6 +48,7 @@ HTML         1 hr 6 mins     █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+  </div>
 </div>
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto"></a> Tools and Tech
