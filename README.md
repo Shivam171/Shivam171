@@ -56,7 +56,7 @@ JavaScript       36 mins         ▓░░░░░░░░░░░░░░�
 <div align="center">
 <p>
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git"/>
+      <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,php,git"/>
     </a>
 </p>
 
