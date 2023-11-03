@@ -49,28 +49,6 @@ CSS          6 mins          █░░░░░░░░░░░░░░░░
   </div>
 </div>
 
-## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" height="30" width="auto"></a> Tools and Tech
-
-<div align="center">
-<p>
-    <a href="#">
-      <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,php,git"/>
-    </a>
-</p>
-
-<p>
-    <a href="#">
-      <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,mongo,firebase,github"/>
-    </a>
-</p>
-
-<p style="padding-left:6px;">
-    <a href="#">
-      <img src="https://skillicons.dev/icons?i=netlify,vscode,ps,linux"/>
-    </a>
-</p>
-</div>
-
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a>Github Stats
 
 <div align="center">
