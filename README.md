@@ -1,4 +1,4 @@
-![LinkedIn_Banner](https://github.com/Shivam171/Shivam171/assets/66107248/ac50cba9-a074-413c-8340-b28791cbed95)
+![Github_Banner (1)](https://github.com/Shivam171/Shivam171/assets/66107248/a22270f2-5a97-4edd-b4f0-6dd3a9fa480b)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
