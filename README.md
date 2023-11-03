@@ -1,4 +1,4 @@
-![Github_Banner (2)](https://github.com/Shivam171/Shivam171/assets/66107248/35981a10-43e0-4b47-9498-9f5da5233b81)
+![Github_Banner (3)](https://github.com/Shivam171/Shivam171/assets/66107248/642fff0d-5918-4544-ba11-3e5a7141247e)
 ## <a href = "#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> A little about me...
 <em>Master's Student at
 <a href="https://www.lpu.in/">Lovely Professional University</a>
