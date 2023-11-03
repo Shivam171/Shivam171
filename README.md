@@ -6,14 +6,12 @@
 </em>
 
 - 👨‍🎓 Computer Application Under-Graduate | 2022
+- 🖥️ Check out my portfolio at [coming soon...](http://https://github.com/shivam171)
 - 👩‍💻 Working on React
 - 📝 Writing Words, Compiling Code
-- 🖥️ Check out my portfolio at [coming soon...](http://https://github.com/shivam171)
 - 🤝🏻 Looking to collaborate on OpenSource Projects
 - 🎯 Goal : To be a better Developer
 - ⚡ Fun Facts : There are two ways to write error-free programs; only the third one works
-
-<!--  -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
