@@ -1,7 +1,5 @@
-![Github_Banner (1)](https://github.com/Shivam171/Shivam171/assets/66107248/a22270f2-5a97-4edd-b4f0-6dd3a9fa480b)
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
-
+![Github_Banner (2)](https://github.com/Shivam171/Shivam171/assets/66107248/35981a10-43e0-4b47-9498-9f5da5233b81)
+## <a href = "#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> A little about me...
 <em>Master's Student at
 <a href="https://www.lpu.in/">Lovely Professional University</a>
 <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" height="20" width="20"/>
