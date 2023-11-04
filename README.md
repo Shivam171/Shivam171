@@ -61,10 +61,10 @@ CSS          6 mins          █░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adrianhajdin/nike_landing_page](https://github.com/adrianhajdin/nike_landing_page)<br>
-2. ⭐ Starred [The-Young-Programmer/C-CPP-Programming](https://github.com/The-Young-Programmer/C-CPP-Programming)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Make-Me-Pay](https://github.com/Shivam171/Make-Me-Pay)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Tvflix](https://github.com/Shivam171/Tvflix)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
