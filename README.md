@@ -61,10 +61,10 @@ Markdown     11 mins         █▒░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/parallax-spider-man](https://github.com/Shivam171/parallax-spider-man)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/make-me-pay](https://github.com/Shivam171/make-me-pay)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Memefy](https://github.com/Shivam171/Memefy)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/yogshakti](https://github.com/Shivam171/yogshakti)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
