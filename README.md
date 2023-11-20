@@ -61,10 +61,10 @@ CSS          5 mins          ▓░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/parallax-spider-man](https://github.com/Shivam171/parallax-spider-man)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/make-me-pay](https://github.com/Shivam171/make-me-pay)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Memefy](https://github.com/Shivam171/Memefy)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/yogshakti](https://github.com/Shivam171/yogshakti)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Reeco](https://github.com/Shivam171/Reeco)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Reeco](https://github.com/Shivam171/Reeco)<br>
+3. 📔 Created new repository [Shivam171/assignment-work](https://github.com/Shivam171/assignment-work)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/parallax-spider-man](https://github.com/Shivam171/parallax-spider-man)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/make-me-pay](https://github.com/Shivam171/make-me-pay)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
