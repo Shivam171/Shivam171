@@ -30,12 +30,11 @@
     <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2023 - To: 26 November 2023
+From: 20 November 2023 - To: 27 November 2023
 
-Total Time: 1 hr 28 mins
+Total Time: 31 mins
 
-PHP          57 mins         ████████████████░░░░░░░░░   64.43 %
-JavaScript   31 mins         █████████░░░░░░░░░░░░░░░░   35.57 %
+JavaScript   31 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
