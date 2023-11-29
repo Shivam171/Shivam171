@@ -57,10 +57,10 @@ JavaScript   31 mins         █████████████████
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Reeco](https://github.com/Shivam171/Reeco)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Reeco](https://github.com/Shivam171/Reeco)<br>
-3. 📔 Created new repository [Shivam171/assignment-work](https://github.com/Shivam171/assignment-work)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/parallax-spider-man](https://github.com/Shivam171/parallax-spider-man)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/make-me-pay](https://github.com/Shivam171/make-me-pay)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/tvflix](https://github.com/Shivam171/tvflix)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/memefy](https://github.com/Shivam171/memefy)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/event-registration-system](https://github.com/Shivam171/event-registration-system)<br>
+4. 📔 Created new repository [Shivam171/event-registration-system](https://github.com/Shivam171/event-registration-system)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Reeco](https://github.com/Shivam171/Reeco)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
