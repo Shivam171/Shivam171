@@ -6,7 +6,7 @@
 </em>
 
 - 👨‍🎓 Computer Application Under-Graduate | 2022
-- 🖥️ Check out my portfolio at [coming soon...](http://https://github.com/shivam171)
+- 🖥️ Check out my portfolio [here](https://shivam171.netlify.app/)
 - 👩‍💻 Working on React
 - 📝 Writing Words, Compiling Code
 - 🤝🏻 Looking to collaborate on OpenSource Projects
