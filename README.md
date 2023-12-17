@@ -61,10 +61,10 @@ C++          1 min           ░░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Shivam171/react-hooks-crash-course](https://github.com/Shivam171/react-hooks-crash-course)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/tvflix](https://github.com/Shivam171/tvflix)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/memefy](https://github.com/Shivam171/memefy)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/event-registration-system](https://github.com/Shivam171/event-registration-system)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/basic-react-projects](https://github.com/Shivam171/basic-react-projects)<br>
+2. 📔 Created new repository [Shivam171/basic-react-projects](https://github.com/Shivam171/basic-react-projects)<br>
+3. 📔 Created new repository [Shivam171/react-hooks-crash-course](https://github.com/Shivam171/react-hooks-crash-course)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/tvflix](https://github.com/Shivam171/tvflix)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
