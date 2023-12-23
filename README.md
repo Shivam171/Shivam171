@@ -30,15 +30,15 @@
     <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-Total Time: 10 hrs 15 mins
+Total Time: 14 hrs 35 mins
 
-JavaScript   7 hrs 9 mins    █████████████████▒░░░░░░░   69.77 %
-Markdown     1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-SSH Config   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-JSON         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+JavaScript   6 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   45.01 %
+Python       3 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
+Markdown     1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+SSH Config   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
