@@ -1,5 +1,9 @@
 ![Github_Banner](https://github.com/Shivam171/Shivam171/assets/66107248/e108a363-bd5f-428e-be6a-bfa1790f3dee)
-## <a href = "#"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a> A little about me...
+
+## <a href = "#"><img src="https://media.tenor.com/sG50GhPiOB4AAAAi/anime.gif" width="auto" height="60"></a> A little about me...
+
+<img align="right" src="https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif">
+
 <em>Master's Student at
 <a href="https://www.lpu.in/">Lovely Professional University</a>
 <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" height="20" width="20"/>
@@ -7,7 +11,7 @@
 
 - 👨‍🎓 Computer Application Under-Graduate | 2022
 - 🖥️ Check out my portfolio [here](https://shivam171.netlify.app/)
-- 👩‍💻 Working on React
+- 👩‍💻 Working on Node & MLOps using Python
 - 📝 Writing Words, Compiling Code
 - 🤝🏻 Looking to collaborate on OpenSource Projects
 - 🎯 Goal : To be a better Developer
@@ -17,31 +21,16 @@
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
 
-&emsp; &emsp;
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shiv.op@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linked_In-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-prakash-643996176/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivam171op)](https://twitter.com/shivam171op)
+&emsp; &emsp;<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/shivam-prakash-643996176/"><img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif?1692024077" height="30"></a>&emsp;<a href="mailto:shiv.op@gmail.com"><img src="https://emojis.slackmojis.com/emojis/images/1643514045/38/gmail.png?1643514045" height="30"></a>&emsp;<a href="https://twitter.com/shivam171op"><img src="https://emojis.slackmojis.com/emojis/images/1692024054/67488/twitterlogo.gif?1692024054" height="30"></a>
 
 <div>
   <h2 align="left">
       <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
   </h2>
-  <div style="transform: scale(2);">
+  <div>
     <!--START_SECTION:waka-->
-
-```txt
-From: 16 December 2023 - To: 23 December 2023
-
-Total Time: 14 hrs 49 mins
-
-JavaScript   6 hrs 25 mins   ███████████░░░░░░░░░░░░░░   43.38 %
-Python       4 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.73 %
-Markdown     1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-SSH Config   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-YAML         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-```
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </div>
 </div>
 
@@ -61,10 +50,5 @@ YAML         37 mins         █░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/basic-react-projects](https://github.com/Shivam171/basic-react-projects)<br>
-2. 📔 Created new repository [Shivam171/basic-react-projects](https://github.com/Shivam171/basic-react-projects)<br>
-3. 📔 Created new repository [Shivam171/react-hooks-crash-course](https://github.com/Shivam171/react-hooks-crash-course)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/tvflix](https://github.com/Shivam171/tvflix)<br>
-<!--RECENT_ACTIVITY:end-->
+    <!--RECENT_ACTIVITY:end-->
 </details>
