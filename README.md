@@ -2,7 +2,7 @@
 
 ## <a href = "#"><img src="https://media.tenor.com/sG50GhPiOB4AAAAi/anime.gif" width="auto" height="60"></a> A little about me...
 
-<img align="right" src="https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif">
+<img align="right" src="https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif" height="250">
 
 <em>Master's Student at
 <a href="https://www.lpu.in/">Lovely Professional University</a>
