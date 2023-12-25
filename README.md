@@ -2,8 +2,8 @@
 
 ## <a href = "#"><img src="https://media.tenor.com/sG50GhPiOB4AAAAi/anime.gif" width="auto" height="60"></a> A little about me...
 
-<img align="right" src="https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif" height="250" style="object-fit:cover">
-
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="350" style="object-fit:cover">
+<br>
 <em>Software Developer at
 <a href="https://www.caminosoftai.com/">Caminosoft AI, Inc.</a>
 <img src="https://emojis.slackmojis.com/emojis/images/1684531853/66362/typingcat.gif?1684531853" height="20" width="20"/>
