@@ -29,7 +29,7 @@
   <h2 align="left">
       <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
   </h2>
-  <div>
+  <div align="center">
     <!--START_SECTION:waka-->
 
 ```txt
