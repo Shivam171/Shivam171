@@ -1,5 +1,3 @@
-# <p align="center"><img src="https://media.tenor.com/sG50GhPiOB4AAAAi/anime.gif" width="auto" height="60">Welcome to my Profile</p>
-
 ![Github_Banner](https://github.com/Shivam171/Shivam171/assets/66107248/e108a363-bd5f-428e-be6a-bfa1790f3dee)
 
 ## <a href = "#"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="auto" height="40"></a> A little about me...
