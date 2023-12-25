@@ -4,10 +4,16 @@
 
 <img align="right" src="https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif" height="250" style="object-fit:cover">
 
+<em>Software Developer at
+<a href="https://www.caminosoftai.com/">Caminosoft AI, Inc.</a>
+<img src="https://emojis.slackmojis.com/emojis/images/1684531853/66362/typingcat.gif?1684531853" height="20" width="20"/>
+</em>
+
 <em>Master's Student at
 <a href="https://www.lpu.in/">Lovely Professional University</a>
 <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" height="20" width="20"/>
 </em>
+<br>
 
 - 👨‍🎓 Computer Application Under-Graduate | 2022
 - 🖥️ Check out my portfolio [here](https://shivam171.netlify.app/)
