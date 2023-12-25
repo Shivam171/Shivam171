@@ -31,7 +31,20 @@
   </h2>
   <div>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```txt
+From: 17 December 2023 - To: 24 December 2023
+
+Total Time: 18 hrs 25 mins
+
+JavaScript   7 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   42.08 %
+Python       5 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+Markdown     1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+YAML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+SSH Config   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+```
+
+<!--END_SECTION:waka-->
   </div>
 </div>
 
