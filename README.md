@@ -1,27 +1,22 @@
+# <p align="center"><img src="https://media.tenor.com/sG50GhPiOB4AAAAi/anime.gif" width="auto" height="60">Welcome to my Profile</p>
+
 ![Github_Banner](https://github.com/Shivam171/Shivam171/assets/66107248/e108a363-bd5f-428e-be6a-bfa1790f3dee)
 
-## <a href = "#"><img src="https://media.tenor.com/sG50GhPiOB4AAAAi/anime.gif" width="auto" height="60"></a> A little about me...
+## <a href = "#"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="auto" height="40"></a> A little about me...
 
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="350" style="object-fit:cover">
-<br>
-<em>Software Developer at
-<a href="https://www.caminosoftai.com/">Caminosoft AI, Inc.</a>
-<img src="https://emojis.slackmojis.com/emojis/images/1684531853/66362/typingcat.gif?1684531853" height="20" width="20"/>
-</em>
+<img align="right" src="https://media.tenor.com/MbVivb9N6tgAAAAM/wave.gif" height="180">
 
-<em>Master's Student at
-<a href="https://www.lpu.in/">Lovely Professional University</a>
-<img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" height="20" width="20"/>
-</em>
-<br>
-
-- 👨‍🎓 Computer Application Under-Graduate | 2022
-- 🖥️ Check out my portfolio [here](https://shivam171.netlify.app/)
-- 👩‍💻 Working on Node & MLOps using Python
-- 📝 Writing Words, Compiling Code
-- 🤝🏻 Looking to collaborate on OpenSource Projects
-- 🎯 Goal : To be a better Developer
-- ⚡ Fun Facts : There are two ways to write error-free programs; only the third one works
+- <em><img src="https://emojis.slackmojis.com/emojis/images/1684531853/66362/typingcat.gif?1684531853" height="20" width="auto"/> Software Developer @
+  <a href="https://www.caminosoftai.com/">Caminosoft AI, Inc.</a>
+  </em>
+- <em><img src="https://emojis.slackmojis.com/emojis/images/1643514750/7581/elmofire.gif?1643514750" height="20" width="auto"/> Master's Student @
+  <a href="https://www.lpu.in/">Lovely Professional University</a>
+  </em>
+- <img src="https://emojis.slackmojis.com/emojis/images/1687735546/66769/smart.gif?1687735546" height="20"> Computer Application Under-Graduate | 2022
+- <img src="https://emojis.slackmojis.com/emojis/images/1703465794/84054/wtf17q.gif?1703465794" height="20"> Check out my portfolio [here](https://shivam171.netlify.app/)
+- <img src="https://emojis.slackmojis.com/emojis/images/1643511645/36348/myaaa.gif?1643511645" height="20"> Working on Node & MLOps
+- <img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" height="20"> Writing Words, Compiling Code
+- <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" height="20"> Looking to collaborate on OpenSource Projects
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -36,20 +31,7 @@
   </h2>
   <div>
     <!--START_SECTION:waka-->
-
-```txt
-From: 17 December 2023 - To: 24 December 2023
-
-Total Time: 18 hrs 25 mins
-
-JavaScript   7 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   42.08 %
-Python       5 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-Markdown     1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-YAML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-SSH Config   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-```
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </div>
 </div>
 
@@ -69,10 +51,5 @@ SSH Config   40 mins         █░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
