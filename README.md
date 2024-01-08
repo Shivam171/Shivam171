@@ -1,4 +1,5 @@
 ![Github_Banner_Shivam171_main](https://github.com/Shivam171/Shivam171/assets/66107248/72f72321-02de-4e09-a75c-1cd02649b071)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam171&label=Profile%20views&color=0e75b6&style=flat" alt="shivam171" /> </p>
 
 ## <a href = "#"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="auto" height="40"></a> A little about me...
 
