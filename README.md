@@ -17,7 +17,7 @@
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" height="20"> Writing Words, Compiling Code
 - <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" height="20"> Looking to collaborate on OpenSource Projects
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b><br/>&emsp;&emsp;&emsp;&emsp;So if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
 
