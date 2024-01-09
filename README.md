@@ -121,9 +121,11 @@ Text         53 mins         ▓░░░░░░░░░░░░░░░░
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <!-- <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a> -->
       <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=linux-mint&logoColor=white"></a>
+      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
       <!-- <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a> -->
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+      <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"></a>
       <!-- <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a> -->
       <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
       <!-- <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a> -->
@@ -131,6 +133,7 @@ Text         53 mins         ▓░░░░░░░░░░░░░░░░
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <!-- <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a> -->
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01.svg?logo=microsoft-office&logoColor=white"></a>
       <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
@@ -142,7 +145,6 @@ Text         53 mins         ▓░░░░░░░░░░░░░░░░
   </p>
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a> Github Stats and Activity
-
 
   <p align="center">
     
