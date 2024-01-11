@@ -2,7 +2,8 @@
 
 ## <a href = "#"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="auto" height="40"></a> A little about me...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam171&label=Profile%20views&color=0e75b6&style=flat" alt="shivam171" /> </p>
+
+![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103) ![](https://komarev.com/ghpvc/?username=shivam171&label=Profile%20views&color=0e75b6&style=flat) ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
 <img align="right" src="https://media.tenor.com/MbVivb9N6tgAAAAM/wave.gif" height="250">
 
 - <em><img src="https://emojis.slackmojis.com/emojis/images/1684531853/66362/typingcat.gif?1684531853" height="20" width="auto"/> Software Developer @
