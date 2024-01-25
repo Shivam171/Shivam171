@@ -32,15 +32,15 @@
     <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-Total Time: 38 hrs 45 mins
+Total Time: 36 hrs 36 mins
 
-JavaScript   16 hrs 24 mins  ██████████▓░░░░░░░░░░░░░░   42.34 %
-Python       15 hrs 49 mins  ██████████▒░░░░░░░░░░░░░░   40.83 %
-Markdown     1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-YAML         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-SSH Config   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Python       17 hrs 38 mins  ████████████░░░░░░░░░░░░░   48.18 %
+JavaScript   12 hrs 33 mins  ████████▓░░░░░░░░░░░░░░░░   34.30 %
+Markdown     1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+SSH Config   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+YAML         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
