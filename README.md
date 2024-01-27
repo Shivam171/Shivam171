@@ -162,10 +162,10 @@ Other        51 mins         ▓░░░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Shivam171/test](https://github.com/Shivam171/test)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. 📔 Created new repository [Shivam171/test](https://github.com/Shivam171/test)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⭐ Starred [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⭐ Starred [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
