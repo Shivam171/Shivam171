@@ -93,6 +93,7 @@ YAML         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <!-- <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a> -->
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=nextjs&logoColor=%2361DAFB"></a>
       <!-- <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
       <a href="#"><img alt="Kedro" src="https://img.shields.io/badge/Kedro-FF6F00.svg?logo=Kedro&logoColor=white"></a>
       <a href="#"><img alt="Bentoml" src="https://img.shields.io/badge/Bentoml-2671E5.svg?logo=Bentoml&logoColor=white"></a>
