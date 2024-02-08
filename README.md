@@ -110,6 +110,7 @@ YAML         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░
       <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a> -->
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-ffffff.svg?logo=Docker&logoColor=blue""></a>
       <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-ffffff.svg?logo=Netlify&logoColor=blue"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
