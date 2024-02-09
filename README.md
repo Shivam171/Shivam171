@@ -165,9 +165,9 @@ YAML         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. 📔 Created new repository [Shivam171/test](https://github.com/Shivam171/test)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⭐ Starred [Spyware007/Animating-Buttons](https://github.com/Spyware007/Animating-Buttons)<br>
+5. 📔 Created new repository [Shivam171/test](https://github.com/Shivam171/test)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
