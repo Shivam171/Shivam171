@@ -32,15 +32,15 @@
     <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-Total Time: 45 hrs 9 mins
+Total Time: 46 hrs 2 mins
 
-JavaScript   32 hrs 15 mins  ██████████████████░░░░░░░   71.41 %
-Bash         4 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Docker       2 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-CSS          2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-JSON         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+JavaScript   35 hrs 59 mins  ███████████████████▓░░░░░   78.18 %
+Bash         3 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+CSS          3 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Markdown     51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+JSON         48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
