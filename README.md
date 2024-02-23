@@ -32,15 +32,15 @@
     <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 52 hrs 23 mins
+Total Time: 40 hrs 24 mins
 
-JavaScript   33 hrs 10 mins  ███████████████▓░░░░░░░░░   63.32 %
-Python       10 hrs 39 mins  █████░░░░░░░░░░░░░░░░░░░░   20.34 %
-CSS          2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-SCSS         1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-SSH Config   1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+JavaScript         21 hrs 34 mins  █████████████▒░░░░░░░░░░░   53.39 %
+Python             13 hrs 26 mins  ████████▒░░░░░░░░░░░░░░░░   33.25 %
+SCSS               1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+YAML               1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+SSH Config         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
