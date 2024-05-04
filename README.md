@@ -164,10 +164,10 @@ CSS                59 mins         ▓░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/mk-docs](https://github.com/Shivam171/mk-docs)<br>
-2. 📔 Created new repository [Shivam171/mk-docs](https://github.com/Shivam171/mk-docs)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+1. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/mk-docs](https://github.com/Shivam171/mk-docs)<br>
+3. 📔 Created new repository [Shivam171/mk-docs](https://github.com/Shivam171/mk-docs)<br>
 4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⭐ Starred [aakashsr/GithubSquare](https://github.com/aakashsr/GithubSquare)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
