@@ -164,10 +164,10 @@ CSS                59 mins         ▓░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nat/openplayground](https://github.com/nat/openplayground)<br>
-2. ⭐ Starred [Ryuk-me/UMS-Api](https://github.com/Ryuk-me/UMS-Api)<br>
-3. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/mk-docs](https://github.com/Shivam171/mk-docs)<br>
-5. 📔 Created new repository [Shivam171/mk-docs](https://github.com/Shivam171/mk-docs)<br>
+1. ⬆️ Pushed 2 commit(s) to [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
+2. 🎉 Merged PR [#1](https://github.com/Shivam171/google-search-clone/pull/1) in [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
+3. 💪 Opened PR [#1](https://github.com/Shivam171/google-search-clone/pull/1) in [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
+4. ⭐ Starred [nat/openplayground](https://github.com/nat/openplayground)<br>
+5. ⭐ Starred [Ryuk-me/UMS-Api](https://github.com/Ryuk-me/UMS-Api)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
