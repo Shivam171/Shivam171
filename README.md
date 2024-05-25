@@ -165,9 +165,9 @@ CSS                59 mins         ▓░░░░░░░░░░░░░░
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
-2. 🎉 Merged PR [#1](https://github.com/Shivam171/google-search-clone/pull/1) in [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
-3. 💪 Opened PR [#1](https://github.com/Shivam171/google-search-clone/pull/1) in [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
-4. ⭐ Starred [nat/openplayground](https://github.com/nat/openplayground)<br>
-5. ⭐ Starred [Ryuk-me/UMS-Api](https://github.com/Ryuk-me/UMS-Api)<br>
+2. 🎉 Merged PR [#2](https://github.com/Shivam171/google-search-clone/pull/2) in [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
+3. 💪 Opened PR [#2](https://github.com/Shivam171/google-search-clone/pull/2) in [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
+4. ⬆️ Pushed 2 commit(s) to [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
+5. 🎉 Merged PR [#1](https://github.com/Shivam171/google-search-clone/pull/1) in [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
