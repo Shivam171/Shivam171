@@ -164,10 +164,10 @@ CSS                59 mins         ▓░░░░░░░░░░░░░░
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-2. 🎉 Merged PR [#1](https://github.com/Shivam171/pizza-rasoi/pull/1) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-3. 💪 Opened PR [#1](https://github.com/Shivam171/pizza-rasoi/pull/1) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-4. 📔 Created new repository [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-5. ⬆️ Pushed 2 commit(s) to [Shivam171/google-search-clone](https://github.com/Shivam171/google-search-clone)<br>
+1. ⭐ Starred [Shivam171/tvflix](https://github.com/Shivam171/tvflix)<br>
+2. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+3. 🎉 Merged PR [#2](https://github.com/Shivam171/pizza-rasoi/pull/2) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+4. 💪 Opened PR [#2](https://github.com/Shivam171/pizza-rasoi/pull/2) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+5. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
