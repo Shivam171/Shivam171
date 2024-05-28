@@ -182,10 +182,10 @@ Linux                    5 hrs 25 mins       ████░░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Shivam171/tvflix](https://github.com/Shivam171/tvflix)<br>
-2. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-3. 🎉 Merged PR [#2](https://github.com/Shivam171/pizza-rasoi/pull/2) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-4. 💪 Opened PR [#2](https://github.com/Shivam171/pizza-rasoi/pull/2) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-5. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
