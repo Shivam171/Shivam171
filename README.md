@@ -182,10 +182,10 @@ Linux                    14 hrs 49 mins      ███████████�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-2. 🎉 Merged PR [#5](https://github.com/Shivam171/pizza-rasoi/pull/5) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-3. 💪 Opened PR [#5](https://github.com/Shivam171/pizza-rasoi/pull/5) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-4. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-5. 🎉 Merged PR [#4](https://github.com/Shivam171/pizza-rasoi/pull/4) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+1. ⬆️ Pushed 3 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+2. 🎉 Merged PR [#8](https://github.com/Shivam171/pizza-rasoi/pull/8) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+3. ⬆️ Pushed 9 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+4. 💪 Opened PR [#8](https://github.com/Shivam171/pizza-rasoi/pull/8) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+5. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
