@@ -182,10 +182,10 @@ Windows                  14 hrs 45 mins      ███████████�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-blog](https://github.com/Shivam171/mern-blog)<br>
-2. 📔 Created new repository [Shivam171/mern-blog](https://github.com/Shivam171/mern-blog)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⬆️ Pushed 3 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-5. 🎉 Merged PR [#8](https://github.com/Shivam171/pizza-rasoi/pull/8) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+1. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+2. 🎉 Merged PR [#9](https://github.com/Shivam171/pizza-rasoi/pull/9) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+3. 💪 Opened PR [#9](https://github.com/Shivam171/pizza-rasoi/pull/9) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-blog](https://github.com/Shivam171/mern-blog)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
