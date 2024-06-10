@@ -72,26 +72,26 @@ Windows                  27 hrs 44 mins      ███████████�
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-      <img alt="Bash" src="https://img.shields.io/badge/Bash-ffffff.svg?logo=gnu-bash&logoColor=blue">
+      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-ffffff.svg?logo=gnu-bash&logoColor=blue"></a>
       <!-- <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> -->
-      <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-ffffff.svg?logo=cpp2&logoColor=blue">
+      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-ffffff.svg?logo=cpp2&logoColor=blue"></a>
       <!-- <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> -->
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-ffffff.svg?logo=css3&logoColor=blue">
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-ffffff.svg?logo=css3&logoColor=blue"></a>
       <!-- <img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"> -->
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-ffffff.svg?logo=html5&logoColor=blue">
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-ffffff.svg?logo=html5&logoColor=blue"></a>
       <!-- <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> -->
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff.svg?logo=javascript&logoColor=blue">
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-ffffff.svg?logo=typescript&logoColor=blue">
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-ffffff.svg?logo=node.js&logoColor=blue">
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff.svg?logo=javascript&logoColor=blue"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-ffffff.svg?logo=typescript&logoColor=blue"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-ffffff.svg?logo=node.js&logoColor=blue"></a>
       <!-- <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"> -->
-      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-ffffff.svg?logo=markdown&logoColor=blue">
-      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-ffffff.svg?logo=database&logoColor=blue">
+      <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-ffffff.svg?logo=markdown&logoColor=blue"></a>
+      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-ffffff.svg?logo=database&logoColor=blue"></a>
       <!-- <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> -->
       <!-- <img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"> -->
       <!-- <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> -->
       <!-- <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"> -->
       <!-- <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"> -->
-      <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-ffffff.svg?logo=svg&logoColor=blue">
+      <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-ffffff.svg?logo=svg&logoColor=blue"></a>
       
   </p>
 
