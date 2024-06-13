@@ -170,7 +170,7 @@ Linux                    31 hrs 9 mins       ███████████�
 
   <p align="center">
     
-  [![Shivam171's GitHub | Stats](https://stats.quine.sh/Shivam171/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shivam171)
+  [![Shivam171's GitHub | Stats](https://stats.quine.sh/Shivam171/github?theme=)](https://quine.sh?utm_source=widgets&utm_campaign=Shivam171)
     <img alt="Shivam Prakash's streak" src="https://streak-stats.demolab.com/?user=Shivam171&theme=monokai-metallian&hide_border=true"/>
     <img alt="Shivam Prakash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Shivam171&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     <img alt="Shivam Prakash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Shivam171&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
