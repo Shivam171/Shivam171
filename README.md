@@ -187,9 +187,9 @@ Windows                  26 hrs 20 mins      ███████████�
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-2. 🎉 Merged PR [#14](https://github.com/Shivam171/pizza-rasoi/pull/14) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-3. 💪 Opened PR [#14](https://github.com/Shivam171/pizza-rasoi/pull/14) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+2. 🎉 Merged PR [#16](https://github.com/Shivam171/pizza-rasoi/pull/16) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+3. 💪 Opened PR [#16](https://github.com/Shivam171/pizza-rasoi/pull/16) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
 4. ⬆️ Pushed 2 commit(s) to [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
-5. 🎉 Merged PR [#13](https://github.com/Shivam171/pizza-rasoi/pull/13) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
+5. 🎉 Merged PR [#15](https://github.com/Shivam171/pizza-rasoi/pull/15) in [Shivam171/pizza-rasoi](https://github.com/Shivam171/pizza-rasoi)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
