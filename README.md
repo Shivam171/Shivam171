@@ -186,10 +186,10 @@ Windows                  22 hrs 5 mins       ██████████░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-blog](https://github.com/Shivam171/mern-blog)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-blog](https://github.com/Shivam171/mern-blog)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-blog](https://github.com/Shivam171/mern-blog)<br>
-4. ⬆️ Pushed 2 commit(s) to [Shivam171/mern-blog](https://github.com/Shivam171/mern-blog)<br>
-5. 🎉 Merged PR [#4](https://github.com/Shivam171/mern-blog/pull/4) in [Shivam171/mern-blog](https://github.com/Shivam171/mern-blog)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
