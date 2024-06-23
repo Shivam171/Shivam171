@@ -189,7 +189,7 @@ Windows                  25 hrs 23 mins      ███████████�
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
