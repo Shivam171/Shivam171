@@ -6,7 +6,7 @@
 <!-- <img align="right" src="https://media1.tenor.com/m/Ndv_332_NoYAAAAC/iruma-suzuki-smile.gif" height="250"> -->
 
 
-<img align="right" src="https://github.com/Shivam171/Shivam171/assets/66107248/1430375a-ae79-44ec-b26c-e3675c993113" height="250">
+<img align="right" src="https://github.com/Shivam171/Shivam171/assets/66107248/1430375a-ae79-44ec-b26c-e3675c993113" height="280">
 
 - <em><img src="https://emojis.slackmojis.com/emojis/images/1684531853/66362/typingcat.gif?1684531853" height="20" width="auto"/> Software Developer @
   <a href="https://www.caminosoftai.com/">Caminosoft AI, Inc.</a>
