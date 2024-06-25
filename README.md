@@ -1,4 +1,4 @@
-![Github_Banner_Shivam171](https://github.com/Shivam171/Shivam171/assets/66107248/e4c6aa9f-5bdc-480a-a0b3-1c7dd26d657d)
+![shivam171-cover](https://github.com/Shivam171/Shivam171/assets/66107248/e660224b-261e-42ab-af67-fe1384c642b5)
 
 ## <a href = "#"><img src="https://media.tenor.com/i1lvpt7wD6AAAAAi/diwali-sparkles-mubarak.gif" width="auto" height="40"></a> नमस्ते ! आपका स्वागत है |
 
