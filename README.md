@@ -16,7 +16,7 @@
   </em>
 - <img src="https://emojis.slackmojis.com/emojis/images/1687735546/66769/smart.gif?1687735546" height="20"> Computer Application Under-Graduate | 2022
 - <img src="https://emojis.slackmojis.com/emojis/images/1703465794/84054/wtf17q.gif?1703465794" height="20"> Check out my portfolio [here](https://shivam171.netlify.app/)
-- <img src="https://emojis.slackmojis.com/emojis/images/1643511645/36348/myaaa.gif?1643511645" height="20"> Working on Node & Nextjs
+- <img src="https://emojis.slackmojis.com/emojis/images/1643511645/36348/myaaa.gif?1643511645" height="20"> Working on Node & Puppeteer
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" height="20"> Writing Words, Compiling Code
 - <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" height="20"> Looking to collaborate on OpenSource Projects
 
