@@ -8,7 +8,7 @@
 
 <!-- <img align="right" src="https://media1.tenor.com/m/Ndv_332_NoYAAAAC/iruma-suzuki-smile.gif" height="250"> -->
 <!-- <img align="right" src="https://github.com/Shivam171/Shivam171/assets/66107248/1430375a-ae79-44ec-b26c-e3675c993113" height="280"> -->
-
+<!--
 - <em><img src="https://emojis.slackmojis.com/emojis/images/1684531853/66362/typingcat.gif?1684531853" height="20" width="auto"/> Software Developer @
   <a href="https://www.caminosoftai.com/">Caminosoft AI, Inc.</a>
   </em>
@@ -20,6 +20,22 @@
 - <img src="https://emojis.slackmojis.com/emojis/images/1643511645/36348/myaaa.gif?1643511645" height="20"> Working on Node & Puppeteer
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" height="20"> Writing Words, Compiling Code
 - <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" height="20"> Looking to collaborate on OpenSource Projects
+-->
+
+```js
+const professionalInfo = {
+  jobTitle: "Software Developer",
+  company: "Caminosoft AI, Inc.",
+  currentStatus: "Master's Student",
+  university: "Lovely Professional University",
+  degree: "Computer Application Under-Graduate",
+  graduationYear: 2022,
+  portfolio: "https://shivam171.netlify.app/",
+  workingOn: ["Node", "Puppeteer"],
+  passions: ["Writing Words", "Compiling Code"],
+  collaborationInterests: "OpenSource Projects"
+};
+```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b><br/>&emsp;&emsp;&emsp;&emsp;So if you want to say <b>hi, I'll be happy to get connected!</b> 😊</em>
 
