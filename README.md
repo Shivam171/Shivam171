@@ -205,9 +205,9 @@ Linux                    14 hrs 14 mins      ██████████░�
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⭐ Starred [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source)<br>
-3. ⭐ Starred [keiyoushi/extensions](https://github.com/keiyoushi/extensions)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⭐ Starred [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source)<br>
+4. ⭐ Starred [keiyoushi/extensions](https://github.com/keiyoushi/extensions)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
