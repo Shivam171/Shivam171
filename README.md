@@ -207,7 +207,7 @@ Windows                  13 hrs 25 mins      ██████████░�
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⭐ Starred [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source)<br>
-5. ⭐ Starred [keiyoushi/extensions](https://github.com/keiyoushi/extensions)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⭐ Starred [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
