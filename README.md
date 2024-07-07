@@ -204,10 +204,10 @@ Windows                  9 hrs 49 mins       ████████░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⭐ Starred [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source)<br>
+1. ⭐ Starred [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)<br>
+2. 🔱 Forked [Shivam171/reactjs-interview-guide](https://github.com/Shivam171/reactjs-interview-guide) from [sudheerj/the-complete-react-interview-guide](https://github.com/sudheerj/the-complete-react-interview-guide)<br>
+3. 🔱 Forked [Shivam171/java-interview-questions](https://github.com/Shivam171/java-interview-questions) from [sudheerj/java-interview-questions](https://github.com/sudheerj/java-interview-questions)<br>
+4. 🔱 Forked [Shivam171/vuejs-interview-questions](https://github.com/Shivam171/vuejs-interview-questions) from [sudheerj/vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions)<br>
+5. 🔱 Forked [Shivam171/angular-interview-questions](https://github.com/Shivam171/angular-interview-questions) from [sudheerj/angular-interview-questions](https://github.com/sudheerj/angular-interview-questions)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
