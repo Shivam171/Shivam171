@@ -205,9 +205,9 @@ Windows                  4 hrs 25 mins       ████░░░░░░░�
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⭐ Starred [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)<br>
-3. 🔱 Forked [Shivam171/reactjs-interview-guide](https://github.com/Shivam171/reactjs-interview-guide) from [sudheerj/the-complete-react-interview-guide](https://github.com/sudheerj/the-complete-react-interview-guide)<br>
-4. 🔱 Forked [Shivam171/java-interview-questions](https://github.com/Shivam171/java-interview-questions) from [sudheerj/java-interview-questions](https://github.com/sudheerj/java-interview-questions)<br>
-5. 🔱 Forked [Shivam171/vuejs-interview-questions](https://github.com/Shivam171/vuejs-interview-questions) from [sudheerj/vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⭐ Starred [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)<br>
+4. 🔱 Forked [Shivam171/reactjs-interview-guide](https://github.com/Shivam171/reactjs-interview-guide) from [sudheerj/the-complete-react-interview-guide](https://github.com/sudheerj/the-complete-react-interview-guide)<br>
+5. 🔱 Forked [Shivam171/java-interview-questions](https://github.com/Shivam171/java-interview-questions) from [sudheerj/java-interview-questions](https://github.com/sudheerj/java-interview-questions)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
