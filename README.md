@@ -204,10 +204,10 @@ Windows                  42 mins             █░░░░░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/ECMAScript-features](https://github.com/Shivam171/ECMAScript-features)<br>
-2. ⬆️ Pushed 3 commit(s) to [Shivam171/javascript-interview-questions](https://github.com/Shivam171/javascript-interview-questions)<br>
-3. ⬆️ Pushed 2 commit(s) to [Shivam171/java-interview-questions](https://github.com/Shivam171/java-interview-questions)<br>
-4. ⬆️ Pushed 6 commit(s) to [Shivam171/datastructures-algorithms](https://github.com/Shivam171/datastructures-algorithms)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/ECMAScript-features](https://github.com/Shivam171/ECMAScript-features)<br>
+3. ⬆️ Pushed 3 commit(s) to [Shivam171/javascript-interview-questions](https://github.com/Shivam171/javascript-interview-questions)<br>
+4. ⬆️ Pushed 2 commit(s) to [Shivam171/java-interview-questions](https://github.com/Shivam171/java-interview-questions)<br>
+5. ⬆️ Pushed 6 commit(s) to [Shivam171/datastructures-algorithms](https://github.com/Shivam171/datastructures-algorithms)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
