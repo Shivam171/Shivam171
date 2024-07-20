@@ -31,7 +31,7 @@ const professionalInfo = {
   degree: "Computer Application Under-Graduate",
   graduationYear: 2022,
   portfolio: "https://shivam171.netlify.app/",
-  workingOn: ["Node", "Puppeteer"],
+  workingOn: ["Node", "Nextjs"],
   passions: ["Writing Words", "Compiling Code"],
   collaborationInterests: "OpenSource Projects"
 };
