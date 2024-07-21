@@ -42,7 +42,7 @@ const professionalInfo = {
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
 
 &emsp; &emsp;<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/shivam-prakash-643996176/"><img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif?1692024077" height="30"></a>&emsp;<a href="mailto:shiv.op@gmail.com"><img src="https://emojis.slackmojis.com/emojis/images/1643514045/38/gmail.png?1643514045" height="30"></a>&emsp;<a href="https://twitter.com/shivam171op"><img src="https://emojis.slackmojis.com/emojis/images/1692024054/67488/twitterlogo.gif?1692024054" height="30"></a>
+<a href="https://www.linkedin.com/in/shivam-prakash-643996176/"><img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif?1692024077" height="30"></a>&emsp;<a href="mailto:shiv.op@gmail.com"><img src="https://emojis.slackmojis.com/emojis/images/1643514045/38/gmail.png?1643514045" height="30"></a>
 
 <div>
   <h2 align="left">
