@@ -205,10 +205,10 @@ Windows                  11 hrs 33 mins      ███████░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
-3. ⬆️ Pushed 21 commit(s) to [Shivam171/javascript-interview-questions](https://github.com/Shivam171/javascript-interview-questions)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+4. ⬆️ Pushed 21 commit(s) to [Shivam171/javascript-interview-questions](https://github.com/Shivam171/javascript-interview-questions)<br>
 5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
