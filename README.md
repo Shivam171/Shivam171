@@ -205,10 +205,10 @@ Linux                    19 hrs 13 mins      ██████████░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
+1. ⭐ Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)<br>
+2. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+3. ⭐ Starred [Tencent/APIJSON](https://github.com/Tencent/APIJSON)<br>
+4. ⭐ Starred [amplication/amplication](https://github.com/amplication/amplication)<br>
+5. ⭐ Starred [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
