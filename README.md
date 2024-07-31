@@ -207,9 +207,9 @@ Linux                    16 hrs 17 mins      █████████░░�
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⭐ Starred [Shivam171/tvflix](https://github.com/Shivam171/tvflix)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⭐ Starred [Shivam171/tvflix](https://github.com/Shivam171/tvflix)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/geek-savvy](https://github.com/Shivam171/geek-savvy)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
