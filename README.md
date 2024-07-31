@@ -24,12 +24,8 @@
 
 ```js
 const professionalInfo = {
-  jobTitle: "Software Developer",
-  company: "Caminosoft AI, Inc.",
-  currentStatus: "Master's Student",
-  university: "Lovely Professional University",
-  degree: "Computer Application Under-Graduate",
-  graduationYear: 2022,
+  currentStatus: "Software Developer",
+  degree: "Computer Application Post-Graduate",
   portfolio: "https://shivam171.netlify.app/",
   workingOn: ["Node", "Nextjs"],
   passions: ["Writing Words", "Compiling Code"],
