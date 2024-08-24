@@ -26,7 +26,6 @@
 const professionalInfo = {
   currentStatus: "Software Developer",
   degree: "Computer Application Post-Graduate",
-  portfolio: "https://shivam171.netlify.app/",
   workingOn: ["Node", "Nextjs"],
   passions: ["Writing Words", "Compiling Code"],
   collaborationInterests: "OpenSource Projects"
