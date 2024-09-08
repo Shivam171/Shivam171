@@ -25,7 +25,7 @@
 ```js
 const professionalInfo = {
   currentStatus: "Software Developer",
-  degree: "Computer Application Post-Graduate",
+  degree: "Master in Computer Application (MCA)",
   workingOn: ["Node", "Nextjs"],
   passions: ["Writing Words", "Compiling Code"],
   collaborationInterests: "OpenSource Projects"
