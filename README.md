@@ -6,39 +6,6 @@
 
 ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![](https://komarev.com/ghpvc/?username=shivam171&label=Profile%20views&color=0e75b6&style=flat) ![Safe](https://img.shields.io/badge/Stay-Safe-red?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg==)
 
-<!-- <img align="right" src="https://media1.tenor.com/m/Ndv_332_NoYAAAAC/iruma-suzuki-smile.gif" height="250"> -->
-<!-- <img align="right" src="https://github.com/Shivam171/Shivam171/assets/66107248/1430375a-ae79-44ec-b26c-e3675c993113" height="280"> -->
-<!--
-- <em><img src="https://emojis.slackmojis.com/emojis/images/1684531853/66362/typingcat.gif?1684531853" height="20" width="auto"/> Software Developer @
-  <a href="https://www.caminosoftai.com/">Caminosoft AI, Inc.</a>
-  </em>
-- <em><img src="https://emojis.slackmojis.com/emojis/images/1643514750/7581/elmofire.gif?1643514750" height="20" width="auto"/> Master's Student @
-  <a href="https://www.lpu.in/">Lovely Professional University</a>
-  </em>
-- <img src="https://emojis.slackmojis.com/emojis/images/1687735546/66769/smart.gif?1687735546" height="20"> Computer Application Under-Graduate | 2022
-- <img src="https://emojis.slackmojis.com/emojis/images/1703465794/84054/wtf17q.gif?1703465794" height="20"> Check out my portfolio [here](https://shivam171.netlify.app/)
-- <img src="https://emojis.slackmojis.com/emojis/images/1643511645/36348/myaaa.gif?1643511645" height="20"> Working on Node & Puppeteer
-- <img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" height="20"> Writing Words, Compiling Code
-- <img src="https://emojis.slackmojis.com/emojis/images/1692206783/67533/extreme-teamwork.gif?1692206783" height="20"> Looking to collaborate on OpenSource Projects
--->
-
-```js
-const professionalInfo = {
-  currentStatus: "Software Developer",
-  degree: "Master in Computer Application (MCA)",
-  workingOn: ["Node", "Nextjs"],
-  passions: ["Writing Words", "Compiling Code"],
-  collaborationInterests: "OpenSource Projects"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b><br/>&emsp;&emsp;&emsp;&emsp;So if you want to say <b>hi, I'll be happy to get connected!</b> 😊</em>
-
-## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
-
-&emsp; &emsp;<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/shivam-prakash-643996176/"><img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif?1692024077" height="30"></a>&emsp;<a href="mailto:shiv.op@gmail.com"><img src="https://emojis.slackmojis.com/emojis/images/1643514045/38/gmail.png?1643514045" height="30"></a>
-
 <div>
   <h2 align="left">
       <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
@@ -106,8 +73,6 @@ Linux                    14 mins             ░░░░░░░░░░░�
       <!-- <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> -->
       <!-- <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"> -->
       <!-- <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"> -->
-      <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-ffffff.svg?logo=svg&logoColor=blue"></a>
-      
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -140,10 +105,10 @@ Linux                    14 mins             ░░░░░░░░░░░�
       <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a> -->
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-ffffff.svg?logo=mongodb&logoColor=blue"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-ffffff.svg?logo=mysql&logoColor=blue"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-ffffff.svg?logo=postgresql&logoColor=blue"></a>
       <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffffff.svg?logo=firebase&logoColor=blue""></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff.svg?logo=notion&logoColor=blue"></a>
       <!-- <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a> -->
-      <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a> -->
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-ffffff.svg?logo=Docker&logoColor=blue""></a>
@@ -154,8 +119,6 @@ Linux                    14 mins             ░░░░░░░░░░░�
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-ffffff.svg?logo=adobe&logoColor=blue"></a>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-ffffff?logo=android&logoColor=blue"></a>
       <!-- <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a> -->
       <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-ffffff.svg?logo=linux-mint&logoColor=blue"></a>
       <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-ffffff.svg?logo=windows&logoColor=blue"></a>
@@ -169,8 +132,6 @@ Linux                    14 mins             ░░░░░░░░░░░�
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-ffffff.svg?logo=discord&logoColor=blue"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-ffffff.svg?logo=git&logoColor=blue"></a>
       <!-- <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a> -->
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-ffffff.svg?logo=google%20sheets&logoColor=blue"></a>
-      <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-ffffff.svg?logo=microsoft-office&logoColor=blue"></a>
       <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-ffffff.svg?logo=adobe%20photoshop&logoColor=blue"></a>
       <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-ffffff?logo=obs-studio&logoColor=blue"></a>
