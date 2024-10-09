@@ -144,12 +144,12 @@ Windows                  30 hrs 48 mins      ███████████�
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a> Github Stats and Activity
 
   <p align="center">
-    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=Shivam171" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66107248&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Shivam171" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66107248&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66107248" target="_blank" style="display: block" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66107248&image_size=auto&color_scheme=dark" width="771" height="auto">
+        <img alt="Dashboard stats of @Shivam171" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66107248&image_size=auto&color_scheme=light" width="771" height="auto">
+      </picture>
+  </a>
   </p>
 
 <p align="center"><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
