@@ -11,7 +11,8 @@
       <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1645259437/53304/graph.png?1645259437" height="30"></a> Weekly Development Breakdown
   </h2>
   <div align="center">
-    <!--START_SECTION:waka-->
+    
+<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
