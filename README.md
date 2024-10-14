@@ -158,11 +158,11 @@ Linux                    2 hrs 54 mins       ███░░░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/note-doodle](https://github.com/Shivam171/note-doodle)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/note-doodle](https://github.com/Shivam171/note-doodle)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
