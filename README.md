@@ -158,7 +158,7 @@ Linux                    7 hrs 57 mins       ███████░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
 4. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
