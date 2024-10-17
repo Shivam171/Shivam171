@@ -158,9 +158,9 @@ Linux                    9 hrs 16 mins       ███████░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
+1. ⭐ Starred [EtishaGarg/twitter-like-animation](https://github.com/EtishaGarg/twitter-like-animation)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 4. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
 5. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
     <!--RECENT_ACTIVITY:end-->
