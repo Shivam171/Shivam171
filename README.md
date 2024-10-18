@@ -158,11 +158,11 @@ Linux                    9 hrs 3 mins        ██████░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EtishaGarg/twitter-like-animation](https://github.com/EtishaGarg/twitter-like-animation)<br>
+1. ⭐ Starred [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
+3. ⭐ Starred [EtishaGarg/twitter-like-animation](https://github.com/EtishaGarg/twitter-like-animation)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
