@@ -158,10 +158,10 @@ Linux                    12 hrs 7 mins       ███████░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⭐ Starred [EtishaGarg/twitter-like-animation](https://github.com/EtishaGarg/twitter-like-animation)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⭐ Starred [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)<br>
+3. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
+4. ⭐ Starred [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)<br>
 5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
