@@ -159,10 +159,10 @@ Linux                    12 hrs 9 mins       ███████░░░░�
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⭐ Starred [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)<br>
-3. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
-4. ⭐ Starred [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⭐ Starred [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)<br>
+5. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
