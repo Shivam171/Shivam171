@@ -158,11 +158,11 @@ Linux                    12 hrs 9 mins       ██████░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+1. ⭐ Starred [arjun-kadam/DocsGPT](https://github.com/arjun-kadam/DocsGPT)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⭐ Starred [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron)<br>
+5. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
