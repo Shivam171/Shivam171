@@ -158,11 +158,11 @@ Linux                    10 hrs 47 mins      █████░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [raznem/parsera](https://github.com/raznem/parsera)<br>
-2. ⭐ Starred [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)<br>
-3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⭐ Starred [arjun-kadam/DocsGPT](https://github.com/arjun-kadam/DocsGPT)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⭐ Starred [raznem/parsera](https://github.com/raznem/parsera)<br>
+3. ⭐ Starred [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⭐ Starred [arjun-kadam/DocsGPT](https://github.com/arjun-kadam/DocsGPT)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
