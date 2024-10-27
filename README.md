@@ -160,9 +160,9 @@ Linux                    9 hrs 57 mins       ████░░░░░░░�
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⭐ Starred [raznem/parsera](https://github.com/raznem/parsera)<br>
-4. ⭐ Starred [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⭐ Starred [raznem/parsera](https://github.com/raznem/parsera)<br>
+5. ⭐ Starred [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
