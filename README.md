@@ -145,13 +145,6 @@ Linux                    6 hrs 1 min         ███░░░░░░░░�
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a> Github Stats and Activity
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66107248&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Shivam171" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66107248&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-
-<p align="center"><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-
 <img alt="Shivam Prakash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Shivam171&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <details>
