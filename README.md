@@ -154,8 +154,8 @@ Linux                    2 hrs 2 mins        █░░░░░░░░░░�
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⭐ Starred [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⭐ Starred [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
