@@ -154,8 +154,8 @@ Linux                    2 hrs 43 mins       ██░░░░░░░░░�
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⭐ Starred [nishant-Tiwari24/company-wise-projects](https://github.com/nishant-Tiwari24/company-wise-projects)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⭐ Starred [nishant-Tiwari24/company-wise-projects](https://github.com/nishant-Tiwari24/company-wise-projects)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
