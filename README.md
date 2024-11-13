@@ -151,11 +151,11 @@ Linux                    3 hrs 28 mins       ██░░░░░░░░░�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)<br>
+1. ⭐ Starred [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⭐ Starred [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli)<br>
+3. ⭐ Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)<br>
 4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⭐ Starred [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
