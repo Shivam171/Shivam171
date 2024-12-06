@@ -95,8 +95,8 @@ Linux                    17 mins             ░░░░░░░░░░░�
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⭐ Starred [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/next-hire-ai](https://github.com/Shivam171/next-hire-ai)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⭐ Starred [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)<br>
 5. ⬆️ Pushed 1 commit(s) to [Shivam171/next-hire-ai](https://github.com/Shivam171/next-hire-ai)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
