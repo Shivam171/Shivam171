@@ -94,9 +94,9 @@ Windows                  22 hrs 45 mins      ███████████�
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⬆️ Pushed 2 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
-4. 🎉 Merged PR [#1](https://github.com/Shivam171/mern-auth/pull/1) in [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 2 commit(s) to [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
+5. 🎉 Merged PR [#1](https://github.com/Shivam171/mern-auth/pull/1) in [Shivam171/mern-auth](https://github.com/Shivam171/mern-auth)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
