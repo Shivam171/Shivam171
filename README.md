@@ -93,9 +93,9 @@ Windows                  35 hrs 5 mins       ███████████�
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⭐ Starred [amilajack/reading](https://github.com/amilajack/reading)<br>
-3. ⭐ Starred [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⭐ Starred [amilajack/reading](https://github.com/amilajack/reading)<br>
+4. ⭐ Starred [AatmikJain/ComputerScienceBooks](https://github.com/AatmikJain/ComputerScienceBooks)<br>
 5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
