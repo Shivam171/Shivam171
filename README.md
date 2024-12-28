@@ -94,8 +94,8 @@ Windows                  17 hrs 2 mins       ███████████�
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
 2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-3. ⭐ Starred [namastedev/namaste-frontend-system-design](https://github.com/namastedev/namaste-frontend-system-design)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⭐ Starred [namastedev/namaste-frontend-system-design](https://github.com/namastedev/namaste-frontend-system-design)<br>
 5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
