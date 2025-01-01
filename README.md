@@ -92,11 +92,11 @@ Windows                  25 hrs 46 mins      ███████████�
     <summary>⚡ Recent Github Activity</summary>
     <br />
     <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Shivam171/frontend-machine-coding-practice](https://github.com/Shivam171/frontend-machine-coding-practice)<br>
-2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/frontend-machine-coding-practice](https://github.com/Shivam171/frontend-machine-coding-practice)<br>
 3. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-4. ⬆️ Pushed 1 commit(s) to [Shivam171/frontend-machine-coding-practice](https://github.com/Shivam171/frontend-machine-coding-practice)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+4. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+5. ⬆️ Pushed 1 commit(s) to [Shivam171/frontend-machine-coding-practice](https://github.com/Shivam171/frontend-machine-coding-practice)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
