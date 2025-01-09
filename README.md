@@ -89,10 +89,10 @@ Windows                  36 hrs 31 mins      ███████████�
     <br />
     <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
-2. ⭐ Starred [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy)<br>
-3. ⭐ Starred [evanw/thumbhash](https://github.com/evanw/thumbhash)<br>
-4. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
-5. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+2. ⬆️ Pushed 1 commit(s) to [Shivam171/Shivam171](https://github.com/Shivam171/Shivam171)<br>
+3. ⭐ Starred [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy)<br>
+4. ⭐ Starred [evanw/thumbhash](https://github.com/evanw/thumbhash)<br>
+5. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)<br>
     <!--RECENT_ACTIVITY:end-->
 </details>
 
