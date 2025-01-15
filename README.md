@@ -8,16 +8,19 @@
 
 ## <a href="#"><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" height="30"></a> Languages and Tools
 ```bash
-  Languages: "JS", "TS", "C++", "Python", "SQL"
-  Web Technologies: "HTML5", "CSS3", "SASS", "Tailwind", "Bootstrap"
-  Libraries & Frameworks: "React", "Next", "Node", "Express", "Electron"
-  Database: "MySQL", "SQLite", "PostgreSQL", "MongoDB", "Convex"
-  Cloud Storage & Hosting: "Firebase", "Vercel", "Netlify"
-  DevOps: "Docker", "AWS",
-  Version Control: "GitHub",
-  Task Tracking Tools: "Azure DevOps",
-  Miscellaneous: "PM2", "SSH", "Photoshop", "Excalidraw", "Clerk", "Kinde", "Google Generative AI", "Open AI"
+  Languages:               JS, TS, C++, Python, SQL
+  Web Technologies:        HTML5, CSS3, SASS, Tailwind, Bootstrap
+  Libraries & Frameworks:  React, Next, Node, Express, Electron
+  Database:                MySQL, SQLite, PostgreSQL, MongoDB, Convex
+  Cloud Storage & Hosting: Firebase, Vercel, Netlify
+  DevOps:                  Docker, AWS
+  Version Control:         GitHub
+  Task Tracking Tool:      Azure DevOps
+  OS:                      Linux (Red-Hat, Mint, Ubuntu), Windows
+  Miscellaneous:           PM2, SSH, Photoshop, Excalidraw, Clerk
 ```
+
+
 
 <div>
   <h2 align="left">
