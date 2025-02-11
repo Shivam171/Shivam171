@@ -8,7 +8,7 @@
 
 ## <a href="#"><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" height="30"></a> Languages and Tools
 ```bash
-  Languages:               JS, TS, C++, Python, SQL
+  Languages:               JS, TS, Java, C++, Python, SQL
   Web Technologies:        HTML5, CSS3, SASS, Tailwind, Bootstrap
   Libraries & Frameworks:  React, Next, Node, Express, Electron
   Database:                MySQL, SQLite, PostgreSQL, MongoDB, Convex
