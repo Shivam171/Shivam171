@@ -62,10 +62,7 @@ Windows                  24 hrs 43 mins      ███████████�
 
 
 ## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a> Github Stats and Activity
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shivam171&show_icons=true&locale=en" alt="shivam171" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam171" alt="shivam171" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam171" alt="shivam171" />
 <img alt="Shivam Prakash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Shivam171&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <p align="center">
