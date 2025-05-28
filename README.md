@@ -13,7 +13,7 @@
 </p>
 
 
-## <a href="#"><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" height="30"></a> Languages and Tools
+## 🚀 Languages and Tools
 <p align="left">
 <!-- Python -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
